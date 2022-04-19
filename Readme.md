@@ -21,7 +21,7 @@ Run Project Locally: `yarn dev` or `yarn start`
   <img src="screenshot/Animated-1.PNG?raw=true" width="360" />
   <img src="screenshot/Animated-2.PNG?raw=true" width="360" />
 </p>
-<video src="screenshot/video.MP4?raw=true" width=180/>
+<!-- <video src="screenshot/video.MP4?raw=true" width=180/> -->
 
 inspiration from http://github.com/catalinmiron
 
